@@ -1,0 +1,20 @@
+"llm_metadata": [
+    {
+      "task": "general_purpose_answering",
+      "model_id": "ibm/granite-13b-chat-v2"
+    }
+  ]
+
+  "llm_metadata": [
+    {
+      "task": "general_purpose_answering",
+      "model_id": "meta-llama/llama-3-70b-instruct"
+    }
+  ]
+
+  "llm_metadata": [
+    {
+      "task": "general_purpose_answering",
+      "model_id": "mistralai/mixtral-8x7b-instruct-v01"
+    }
+  ]
